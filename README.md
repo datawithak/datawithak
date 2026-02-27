@@ -35,4 +35,4 @@ AI/LLMs   →  Anthropic Claude, Gemini
 
 ---
 
-*Always open to conversations about product, AI, and whatever I'm building next.*
+*Always open to conversations about product, AI, parenthood, and whatever I'm building next. Maybe you can have it all!*

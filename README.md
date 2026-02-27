@@ -1,6 +1,6 @@
 # Hi, I'm Anukriti 👋
 
-CS undergrad + MBA. I work at the intersection of **Technical Product and Strategy** — and I build things on the side to stay close to the code.
+CS undergrad + MBA. I work at the intersection of **Technical Product and Strategy** — and I build things on the side that simplify my life. Every app and tool here is something I actually use daily.
 
 Based in **New York City**.
 
@@ -10,9 +10,9 @@ Based in **New York City**.
 
 | Project | What it does | Stack |
 |---|---|---|
-| [**mamas-kb**](https://github.com/datawithak/mamas-kb) | Turns 19,000 WhatsApp messages from NYC parent groups into a searchable knowledge base | Next.js · TypeScript · Python · Claude AI |
-| [**subwayping**](https://github.com/datawithak/subwayping) | One-tap NYC subway arrival tracker — real MTA data, no noise | Kotlin · Android |
-| [**keepmehonest-pantry**](https://github.com/datawithak/keepmehonest-pantry) | Shared kitchen inventory app for couples — scan, track, avoid buying things you already have | React Native · Expo · TypeScript |
+| [**mamas-kb**](https://github.com/datawithak/mamas-kb) · [live ↗](https://mamas-kb-psf8.vercel.app/) | Mom groups are a wealth of hyper-local knowledge — but it's buried in thousands of messages. I extracted the knowledge from multiple WhatsApp groups into a searchable site, with no names or media exposed — just the information. | Next.js · TypeScript · Python · Claude AI |
+| [**subwayping**](https://github.com/datawithak/subwayping) | You're out with friends, keep pulling out your phone to check the subway, and miss your train anyway. Worse — you end up on Instagram, check work emails, and kill the buzz. SubwayPing is a home screen widget: one red button, and you get notified about your train. Phone stays in your pocket. | Kotlin · Android |
+| [**keepmehonest-pantry**](https://github.com/datawithak/keepmehonest-pantry) | My husband has a talent for not finding things in the pantry and buying duplicates — so we end up with 3 jars of pasta sauce, one of which expires before we get to it. Wasted food, money, and space (fellow New Yorkers know). A shared app where we cross things off as we use them, so neither of us goes grocery shopping blind. | React Native · Expo · TypeScript |
 
 ---
 

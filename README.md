@@ -14,6 +14,7 @@ Based in **New York City**.
 | [**subwayping**](https://github.com/datawithak/subwayping) | You're out with friends, keep pulling out your phone to check the subway, and miss your train anyway. Worse: you end up on Instagram, check work emails, and kill the buzz. SubwayPing is a home screen widget: one red button, and you get notified about your train. Phone stays in your pocket. | Kotlin · Android |
 | [**keepmehonest-pantry**](https://github.com/datawithak/keepmehonest-pantry) | My husband has a talent for not finding things in the pantry and buying duplicates, so we end up with 3 jars of pasta sauce and one expires before we get to it. Wasted food, money, and space (fellow New Yorkers know). A shared app where we cross things off as we use them, so neither of us goes grocery shopping blind. | React Native · Expo · TypeScript |
 | [**flightint**](https://github.com/datawithak/flightint) · [live ↗](https://flightint.vercel.app) | Live map of military aircraft and naval vessels using publicly broadcast data. Tells you what each aircraft type and callsign actually means in plain English. | Next.js · TypeScript · Leaflet |
+| [**straitwatch**](https://github.com/datawithak/straitwatch) · [live ↗](https://straitwatch.onrender.com) | The Strait of Hormuz is closed. I wanted to see which sanctioned tankers were still moving. Real-time dashboard tracking shadow fleet vessels and sanctions evasion at the two key oil chokepoints, using public AIS data and the OFAC sanctions list. | Next.js · TypeScript · Leaflet |
 
 ---
 
